@@ -1,0 +1,33 @@
+/*********************/
+/* section top */
+.top{
+    background-color: #000000;
+    border-top: 2px solid #d24260;
+}
+/* top-bar-title */
+.top-bar_title a{
+    font-size: 35px;
+    color: #ffffff;
+}
+.top-bar_title p{
+    font-size: 15px;
+    color: #666666;
+}
+/* top-bar_social */
+.top-bar_social{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-flow: row nowrap;
+}
+.top-bar_social li{
+    padding: 30px;
+  
+}
+.top-bar_social li a{
+
+}
+.container{
+    margin: 0 auto;
+}
